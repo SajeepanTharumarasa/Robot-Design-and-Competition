@@ -80,17 +80,25 @@
  
 </div>
 
+<h3>Simulation Results</h3><br>
+https://user-images.githubusercontent.com/66894143/201988013-1d7b4f7e-3c3f-4fa1-818d-8d1f78bc4626.mp4
 
 
-<br>
-<br>
 
 
 
-### Breadboard Design
-<img src="./Results/breadboard.jpg" alt = " Breadbord Design" width="200"/>
-<br>
-<br>
-<h3>Prototype</h3>
-<img src="./Results/oscillator_pcb.jpg" alt = " Prototype Wave Generator" width="150"/>
-<img src="./Results/dot.jpg" alt = " Breadbord Design" width="250"/>
+
+https://user-images.githubusercontent.com/66894143/201989404-deedcabc-5eeb-4a56-85ab-d73e415cb2a8.mp4
+
+
+
+https://user-images.githubusercontent.com/66894143/201989577-d604b9ec-ffc9-4a25-a804-832a2130c638.mp4
+
+
+
+https://user-images.githubusercontent.com/66894143/201989594-74f4caee-fe07-4f68-b390-5d05d256f230.mp4
+
+
+
+https://user-images.githubusercontent.com/66894143/201989644-856a7c58-4d2e-4540-b92b-0553b5ee5305.mp4
+
