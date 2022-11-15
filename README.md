@@ -13,6 +13,7 @@
  Line following
  <ul> <li>
  the robot must follow a white line on a black surface. These paths may contain straight
+
  lines, curved lines, or dotted line segments.
  </li></ul>  </li>
  <li>
@@ -51,22 +52,36 @@
 
 ## Algorithm
 
-![Algorithm - PID Line Following](https://user-images.githubusercontent.com/66894143/201982655-d6d0dca0-1604-412f-80fd-427cfd7f04d8.jpg)
+
+
 
 <div class="row">
   <div class="column">
-    <img src="[img_snow.jpg](https://user-images.githubusercontent.com/66894143/201982655-d6d0dca0-1604-412f-80fd-427cfd7f04d8.jpg)" alt="Snow" style="width:100%">
+   <h3>PID Line Following</h3><br>
+    <img style="width:40%" alt="Capture3" src="https://user-images.githubusercontent.com/66894143/201984123-200d2133-9f00-41ce-b9dd-91d69e15658d.PNG">
   </div>
   <div class="column">
-    <img src="[img_forest.jpg](https://user-images.githubusercontent.com/66894143/201982655-d6d0dca0-1604-412f-80fd-427cfd7f04d8.jpg)" alt="Forest" style="width:100%">
+   <h3>PID Maze Solving</h3><br>
+   <img width="836" alt="Capture4" src="https://user-images.githubusercontent.com/66894143/201985226-1ea4c48f-bd3a-49f3-8273-dc55b32b7bd7.PNG">
   </div>
   <div class="column">
-    <img src="[img_mountains.jpg](https://user-images.githubusercontent.com/66894143/201982655-d6d0dca0-1604-412f-80fd-427cfd7f04d8.jpg)" alt="Mountains" style="width:100%">
+    <h3>Mosic Floor Navigation</h3><br>
+    <img width="394" alt="Capture5" src="https://user-images.githubusercontent.com/66894143/201986368-1246d559-3090-45a0-8d36-77fc20c8d29e.PNG">
   </div>
+ 
+ <div class="column">
+    <h3>Arm Manipulation Inverse Kinematics  </h3><br>
+    <img width="719" alt="Capture6" src="https://user-images.githubusercontent.com/66894143/201987007-5f7a15ec-2da9-4d0f-9d81-175312de111f.PNG">
+  </div>
+ 
+ 
+ 
+
+ 
 </div>
 
 
-The complete report (downloadable) can be found [ here](https://github.com/sanjith1999/Analog-Piano/blob/master/Submission%20Files/Report/main.pdf)
+
 <br>
 <br>
 
